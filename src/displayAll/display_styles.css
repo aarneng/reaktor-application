@@ -1,0 +1,45 @@
+
+.content-element:hover {
+  padding: 4px;
+  background: hsl(60, 6%, 19%);
+  color: #fff;
+}
+
+.rules {
+  padding-bottom: 5px;
+  max-width: 50vw;
+}
+
+.glossary {
+  padding-bottom: 5px;
+  max-width: 50vw;
+}
+
+.credits {
+  padding-bottom: 10px;
+  max-width: 50vw;
+}
+
+.rule-highlight {
+  display: inline;
+}
+
+.rule-highlight:hover {
+  padding: 4px;
+  background: hsl(60, 6%, 19%);
+  color: #fff;
+}
+
+.notification {
+  background: #fff;
+  width: 40vw;
+  padding: 1vh;
+  position: fixed;
+  border-radius: 5px;
+  border-color: #70df70;
+  display: grid;
+  border-style: solid;
+  place-items: center;
+}
+
+
